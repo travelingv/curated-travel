@@ -6,16 +6,17 @@ Contents
 ========
 
 * [Zacatecas, Mexico prices and cost of living information](#zacatecas-mexico-prices-and-cost-of-living-information)
+	* [Markets](#markets)
+	* [Rent Per Month](#rent-per-month)
+	* [Childcare](#childcare)
+	* [Salaries And Financing](#salaries-and-financing)
+	* [Transportation](#transportation)
+	* [Restaurants](#restaurants)
+	* [Clothing And Shoes](#clothing-and-shoes)
 	* [Utilities Per Month](#utilities-per-month)
 	* [Sports And Leisure](#sports-and-leisure)
-	* [Clothing And Shoes](#clothing-and-shoes)
-	* [Childcare](#childcare)
-	* [Rent Per Month](#rent-per-month)
-	* [Transportation](#transportation)
-	* [Salaries And Financing](#salaries-and-financing)
 	* [Buy Apartment](#buy-apartment)
-	* [Restaurants](#restaurants)
-	* [Markets](#markets)
+	* [Sources](#sources)
 
 # Zacatecas, Mexico prices and cost of living information
 
@@ -23,106 +24,10 @@ Contents
 Total cost of living in Zacatecas 🇲🇽 for two person with average consumption for one month will be ~ 589.26 $, no rent 
 price included. Current prices of 52 goods and services in 10 categories  in Zacatecas. Prices of food, restaurants, 
 transportation, utilities, clothing and apartment rent & buying costs in Zacatecas. Average salaries also included.
-## Utilities Per Month
-  
-
-|Name|Price converted to USD|
-| :---: | :---: |
-|Basic utilities for 85m2 Apartment including Electricity, Heating or Cooling, Water and Garbage|23.87|
-|Prepaid Mobile Tariff Local, price per 1 min, No Discounts or Plans|0.06|
-|Internet, 60 Mbps or More, Unlimited Data, Cable/ADSL|18.63|
-  
-
-## Sports And Leisure
-  
-
-|Name|Price converted to USD|
-| :---: | :---: |
-|Fitness Club, Monthly Fee for 1 Adult|22.88|
-  
-
-## Clothing And Shoes
-  
-
-|Name|Price converted to USD|
-| :---: | :---: |
-|Pair of Jeans in a Chain Store Like George, H&M, Zara, etc.|33.03|
-|Summer Dress in a Chain Store Like George, H&M, Zara, etc.|37.61|
-|Pair of Running Shoes, Mid-Range Price|71.17|
-|Pair of Leather Business Shoes|63.56|
-  
-
-## Childcare
-  
-
-|Name|Price converted to USD|
-| :---: | :---: |
-|Private Preschool or Kindergarten, Monthly for 1 Child|192.56|
-|International Primary School, Yearly for 1 Child|3929.58|
-  
-
-## Rent Per Month
-  
-
-|Name|Price converted to USD|
-| :---: | :---: |
-|One bedroom apartment in city centre|109.33|
-|One bedroom apartment outside of city centre|63.56|
-|Three bedroom apartment in city centre|266.97|
-|Three bedroom apartment outside of city centre|165.27|
-  
-
-## Transportation
-  
-
-|Name|Price converted to USD|
-| :---: | :---: |
-|One-way Ticket, Local Transport|0.43|
-|Taxi Start, Normal Tariff|0.97|
-|Taxi, price for 1 km, Normal Tariff|0.51|
-|Taxi, price for 1 hour Waiting, Normal Tariff|8.39|
-|Gasoline, 1 liter|0.9|
-|Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)|14237.84|
-  
-
-## Salaries And Financing
-  
-
-|Name|Price converted to USD|
-| :---: | :---: |
-|Cinema ticket, 1 Seat|3.56|
-|Average Monthly Net Salary, After Tax|508.51|
-|Mortgage Interest Rate in Percentages for 20 Years Fixed-Rate, Yearly, Fixed-Rate|11.35|
-  
-
-## Buy Apartment
-  
-
-|Name|Price converted to USD|
-| :---: | :---: |
-|Price per m<sup>2</sup> to Buy Apartment in City Center|610.21|
-|Price per m<sup>2</sup> to Buy Apartment Outside of City Center|330.53|
-  
-
-## Restaurants
-  
-
-|Name|Price converted to USD|
-| :---: | :---: |
-|Meal in Inexpensive Restaurant|5.34|
-|Meal for 2 People, Mid-range Restaurant, Three-course|21.61|
-|McMeal at McDonalds or Alternative Combo Meal|4.58|
-|Domestic Beer, 0.5 liter Draught|1.53|
-|Imported Beer, 0.33 liter Bottle|2.54|
-|Cappuccino|2.03|
-|Coca-Cola, 0.33 liter Bottle|0.69|
-  
-
 ## Markets
-  
 
 |Name|Price converted to USD|
-| :---: | :---: |
+| :--- | :--- |
 |Water, 0.33 liter Bottle|0.33|
 |Milk, Regular,1 liter|0.79|
 |Loaf of Fresh White Bread, 0.5 kg|1.58|
@@ -145,6 +50,92 @@ transportation, utilities, clothing and apartment rent & buying costs in Zacatec
 |Pack of Cigarettes|2.49|
   
 
-### Sources
+## Rent Per Month
 
-- [https://traveltables.com/ountry/mexico/city/zacatecas/cost-of-living/](https://traveltables.com/ountry/mexico/city/zacatecas/cost-of-living/)
+|Name|Price converted to USD|
+| :--- | :--- |
+|One bedroom apartment in city centre|109.33|
+|One bedroom apartment outside of city centre|63.56|
+|Three bedroom apartment in city centre|266.97|
+|Three bedroom apartment outside of city centre|165.27|
+  
+
+## Childcare
+
+|Name|Price converted to USD|
+| :--- | :--- |
+|Private Preschool or Kindergarten, Monthly for 1 Child|192.56|
+|International Primary School, Yearly for 1 Child|3929.58|
+  
+
+## Salaries And Financing
+
+|Name|Price converted to USD|
+| :--- | :--- |
+|Cinema ticket, 1 Seat|3.56|
+|Average Monthly Net Salary, After Tax|508.51|
+|Mortgage Interest Rate in Percentages for 20 Years Fixed-Rate, Yearly, Fixed-Rate|11.35|
+  
+
+## Transportation
+
+|Name|Price converted to USD|
+| :--- | :--- |
+|One-way Ticket, Local Transport|0.43|
+|Taxi Start, Normal Tariff|0.97|
+|Taxi, price for 1 km, Normal Tariff|0.51|
+|Taxi, price for 1 hour Waiting, Normal Tariff|8.39|
+|Gasoline, 1 liter|0.9|
+|Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)|14237.84|
+  
+
+## Restaurants
+
+|Name|Price converted to USD|
+| :--- | :--- |
+|Meal in Inexpensive Restaurant|5.34|
+|Meal for 2 People, Mid-range Restaurant, Three-course|21.61|
+|McMeal at McDonalds or Alternative Combo Meal|4.58|
+|Domestic Beer, 0.5 liter Draught|1.53|
+|Imported Beer, 0.33 liter Bottle|2.54|
+|Cappuccino|2.03|
+|Coca-Cola, 0.33 liter Bottle|0.69|
+  
+
+## Clothing And Shoes
+
+|Name|Price converted to USD|
+| :--- | :--- |
+|Pair of Jeans in a Chain Store Like George, H&M, Zara, etc.|33.03|
+|Summer Dress in a Chain Store Like George, H&M, Zara, etc.|37.61|
+|Pair of Running Shoes, Mid-Range Price|71.17|
+|Pair of Leather Business Shoes|63.56|
+  
+
+## Utilities Per Month
+
+|Name|Price converted to USD|
+| :--- | :--- |
+|Basic utilities for 85m2 Apartment including Electricity, Heating or Cooling, Water and Garbage|23.87|
+|Prepaid Mobile Tariff Local, price per 1 min, No Discounts or Plans|0.06|
+|Internet, 60 Mbps or More, Unlimited Data, Cable/ADSL|18.63|
+  
+
+## Sports And Leisure
+
+|Name|Price converted to USD|
+| :--- | :--- |
+|Fitness Club, Monthly Fee for 1 Adult|22.88|
+  
+
+## Buy Apartment
+
+|Name|Price converted to USD|
+| :--- | :--- |
+|Price per m<sup>2</sup> to Buy Apartment in City Center|610.21|
+|Price per m<sup>2</sup> to Buy Apartment Outside of City Center|330.53|
+  
+
+## Sources
+
+- [https://traveltables.com/country/mexico/city/zacatecas/cost-of-living/](https://traveltables.com/country/mexico/city/zacatecas/cost-of-living/)
