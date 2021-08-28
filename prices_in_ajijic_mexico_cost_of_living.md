@@ -140,3 +140,4 @@ transportation, utilities, clothing and apartment rent & buying costs in Ajijic.
 ## Sources
 
 - [https://traveltables.com/country/mexico/city/ajijic/cost-of-living/](https://traveltables.com/country/mexico/city/ajijic/cost-of-living/)
+- <a href="https://traveltables.com/country/mexico/city/ajijic/cost-of-living/" rel="dofollow">Test</a>
